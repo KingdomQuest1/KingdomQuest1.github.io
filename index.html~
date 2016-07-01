@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fox Trot Games</title>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+
+<h1>Fox Trot Games</h1>
+
+<p>Fox Trot games is games that I make, most of the games star Roxy, who is a fox who enjoys eating tacos, fuit, and dounuts, hanging at the beach, going shoping, and playing with you, Roxy is your own vertual pet, so treat her with the most care possible.
+</p>
+
+<div>
+<iframe class="game1" allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/115090948/?autostart=false" align="left" frameborder="0" allowfullscreen></iframe>
+</div>
+<div>
+<iframe class="game2" allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/114991751/?autostart=false" align="left" frameborder="0" allowfullscreen></iframe>
+</div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+body {
+  background-color: #ffcce6;
+}
+
+@font-face{
+  font-family: newFont;
+  src: url(font.otf);
+}
+
+h1{
+  font-family: newFont;
+}
+
+p{
+  font-size: 40px;
+}
